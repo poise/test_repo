@@ -6,6 +6,6 @@ The data below is for tests.
 
 ```
 repo=test_repo
-branch=master
+branch=release
 ```
 
